@@ -1,16 +1,78 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1abc9c,100:3498db&height=180&section=header&text=Olá,%20eu%20sou%20João%20Pedro%20Gallego!&fontSize=32&fontColor=fff&animation=fadeIn" />
+</p>
 
-<!--
-**GallegoSz/GallegoSz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/gallegosz">
+    <img src="https://img.shields.io/github/followers/gallegosz?label=Seguidores&style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/joaopedrogallego/">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:@jopedrogallego@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+
+## 👨‍💻 Sobre mim
+- 💼 **O que faço:** Desenvolvo aplicações em Java e ofereço monitoria de programação, já tendo auxiliado mais de 20 alunos a compreender lógica e boas práticas de código.
+- 🌱 **Atualmente estudando:** Aprofundando-me no Spring Framework para criar sistemas mais robustos, escaláveis e prontos para produção.
+- 🎯 **Objetivo:** Ingressar no mercado de programação com alto nível técnico, aplicando arquitetura limpa e entregando soluções que gerem valor real para empresas e usuários.
+
+
+---
+
+
+## 🛠️ Tecnologias & Ferramentas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,mysql,git,github" />
+</p>
+
+### Outras
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+
+---
+
+
+## 📊 Estatísticas
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gallegosz&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gallegosz&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+</p>
+
+
+---
+
+
+## 🚀 Projetos em Destaque
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| [Nome do Projeto](link) | descrição | tecnologias |
+| [Nome do Projeto](link) | descrição | tecnologias |
+| [Nome do Projeto](link) | descrição | tecnologias |
+
+
+---
+
+
+## 📫 Contato
+<p align="center">
+  <a href="mailto:jopedrogallego@hotmail.com"><img src="https://img.shields.io/badge/Gmail-Enviar%20Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/joaopedrogallego/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://wa.me/659992903"><img src="https://img.shields.io/badge/WhatsApp-Conversar-green?style=for-the-badge&logo=whatsapp"></a>
+</p>
+
+---
+
+<!-- Rodapé -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:1abc9c&height=120&section=footer" />
+</p>
