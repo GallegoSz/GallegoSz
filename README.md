@@ -29,6 +29,7 @@
 
 
 ## 🛠️ Tecnologias & Ferramentas
+### Principais
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,mysql,git,github" />
 </p>
