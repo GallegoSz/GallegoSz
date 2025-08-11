@@ -20,7 +20,7 @@
 
 
 ## 👨‍💻 Sobre mim
-- 💼 **O que faço:** Desenvolvo aplicações em Java e ofereço monitoria de programação, já tendo auxiliado mais de 25 alunos a compreender lógica e boas práticas de código.
+- 💼 **O que faço:** Desenvolvo aplicações em Java e ofereço monitoria de programação, já tendo auxiliado mais de 30 alunos a compreender lógica e boas práticas de código.
 - 🌱 **Atualmente estudando:** Aprofundando-me no Spring Framework para criar sistemas mais robustos, escaláveis e prontos para produção.
 - 🎯 **Objetivo:** Ingressar no mercado de programação com alto nível técnico, aplicando arquitetura limpa e entregando soluções que gerem valor real para empresas e usuários.
 
