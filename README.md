@@ -68,12 +68,11 @@
 <p align="center">
   <a href="mailto:jopedrogallego@hotmail.com"><img src="https://img.shields.io/badge/Gmail-Enviar%20Email-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/joaopedrogallego/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://wa.me/659992903"><img src="https://img.shields.io/badge/WhatsApp-Conversar-green?style=for-the-badge&logo=whatsapp"></a>
+  <a href="https://wa.me/65999290366"><img src="https://img.shields.io/badge/WhatsApp-Conversar-green?style=for-the-badge&logo=whatsapp"></a>
 </p>
 
 ---
 
-<!-- Rodapé -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:1abc9c&height=120&section=footer" />
 </p>
