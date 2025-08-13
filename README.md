@@ -56,7 +56,7 @@
 ## 🚀 Projetos em Destaque
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| [Nome do Projeto](link) | descrição | tecnologias |
+| [Perfumaria Even](https://github.com/GallegoSz/perfumaria-even) | Começou como um projeto escolar, mas conforme eu aprendia mais sobre programação e minhas necessidades de estudo mudavam, o projeto também foi evoluindo. De simples tarefa, ele se transformou em uma ferramenta para acompanhar meus estudos, e isso me motivou a continuar melhorando-o a cada dia. | Java, JSwing, Jdbc, SQL, Git, GitHub |
 | [Nome do Projeto](link) | descrição | tecnologias |
 | [Nome do Projeto](link) | descrição | tecnologias |
 
