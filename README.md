@@ -36,7 +36,7 @@
 
 ### Outras
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
 </p>
 
 
