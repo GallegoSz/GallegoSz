@@ -29,17 +29,20 @@
 
 
 ## 🛠️ Tecnologias & Ferramentas
-### Principais
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql,git,github" />
-</p>
-
-### Outras
+### FrontEnd
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
 </p>
 
+### BackEnd
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,mysql" />
+</p>
 
+### Outras
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
 ---
 
 
