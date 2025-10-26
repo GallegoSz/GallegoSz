@@ -20,7 +20,7 @@
 
 
 ## 👨‍💻 Sobre mim
-- 💼 **O que faço:** Desenvolvo aplicações em Java e ofereço monitoria de programação, já tendo auxiliado mais de 30 alunos a compreender lógica e boas práticas de código.
+- 💼 **O que faço:** Desenvolvo aplicações em Java e ofereço monitoria de programação, já tendo auxiliado mais de 80 alunos a compreender lógica e boas práticas de código.
 - 🌱 **Atualmente estudando:** Aprofundando-me no universo Front_end com JavaScript, React e Tailwind.
 - 🎯 **Objetivo:** Ingressar no mercado de programação com alto nível técnico, aplicando arquitetura limpa e entregando soluções que gerem valor real para empresas e usuários.
 
@@ -31,7 +31,7 @@
 ## 🛠️ Tecnologias & Ferramentas
 ### FrontEnd
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
 </p>
 
 ### BackEnd
