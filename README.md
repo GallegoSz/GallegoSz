@@ -31,12 +31,12 @@
 ## 🛠️ Tecnologias & Ferramentas
 ### FrontEnd
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind" />
 </p>
 
 ### BackEnd
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,mysql" />
 </p>
 
 ### Outras
