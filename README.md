@@ -51,6 +51,9 @@
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
 | [Perfumaria Even](https://github.com/GallegoSz/perfumaria-even) | Sistema de gerenciamento de loja desenvolvido em Java, com interface gráfica construída em JSwing. Permite CRUD completo para clientes, funcionários e produtos, além de contar com sistema de login para diferentes níveis de acesso, proporcionando organização e controle eficiente das operações da loja. | Java, JSwing, Jdbc, MySQL, Git, GitHub |
+|[Kairo](https://github.com/GallegoSz/Kairo)| Plataforma de gestão de times onde cada colaborador possui um calendário individual, e os gestores têm uma visão completa da disponibilidade, agendas e compromissos da equipe em tempo real. Ajudando empresas a reduzir conflitos de agenda, melhorar o planejamento e tomar decisões com base na disponibilidade real do time.| Javascript, Typescript, React, Tailwind |
+
+
 
 
 ---
