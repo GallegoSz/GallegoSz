@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/joaopedrogallego/">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:@jopedrogallego@hotmail.com">
+  <a href="mailto:@jopedrogallego@outlook.com">
     <img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
@@ -61,7 +61,7 @@
 
 ## 📫 Contato
 <p align="center">
-  <a href="mailto:jopedrogallego@hotmail.com"><img src="https://img.shields.io/badge/Gmail-Enviar%20Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:jopedrogallego@outlook.com"><img src="https://img.shields.io/badge/Gmail-Enviar%20Email-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/joaopedrogallego/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://wa.me/65999290366"><img src="https://img.shields.io/badge/WhatsApp-Conversar-green?style=for-the-badge&logo=whatsapp"></a>
 </p>
