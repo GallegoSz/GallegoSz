@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1abc9c,100:3498db&height=180&section=header&text=Olá,%20eu%20sou%20João%20Pedro%20Gallego!&fontSize=32&fontColor=fff&animation=fadeIn" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1abc9c,100:3498db&height=180&section=header&animation=fadeIn" />
+  <h1>Olá, eu sou João Pedro Gallego!</h1>
+</div>
 
 
 <p align="center">
