@@ -37,7 +37,12 @@
 
 ### BackEnd
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql" />
+</p>
+
+### Desktop
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" />
 </p>
 
 ### Outras
