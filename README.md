@@ -32,12 +32,12 @@
 ## 🛠️ Tecnologias & Ferramentas
 ### FrontEnd
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,nextjs" />
 </p>
 
 ### BackEnd
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgresql,nextjs" />
 </p>
 
 ### Desktop
