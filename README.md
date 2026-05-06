@@ -47,7 +47,7 @@
 
 ### Outras
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel" />
 </p>
 
 ---
