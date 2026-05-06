@@ -37,7 +37,7 @@
 
 ### BackEnd
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgresql,redis" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgresql,redis" />
 </p>
 
 ### Desktop
