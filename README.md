@@ -20,15 +20,6 @@
 ---
 
 
-## 👨‍💻 Sobre mim
-- 💼 **O que faço:** Desenvolvo aplicações em Java e ofereço monitoria de programação, já tendo auxiliado mais de 80 alunos a compreender lógica e boas práticas de código.
-- 🌱 **Atualmente estudando:** Aprofundando-me no universo Front_end com JavaScript, React e Tailwind.
-- 🎯 **Objetivo:** Ingressar no mercado de programação com alto nível técnico, aplicando arquitetura limpa e entregando soluções que gerem valor real para empresas e usuários.
-
-
----
-
-
 ## 🛠️ Tecnologias & Ferramentas
 ### FrontEnd
 <p align="center">
@@ -57,7 +48,7 @@
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
 | [Perfumaria Even](https://github.com/GallegoSz/perfumaria-even) | Sistema de gerenciamento de loja desenvolvido em Java, com interface gráfica construída em JSwing. Permite login, CRUD completo para clientes, funcionários e produtos, além de contar com sistema que gera XML para notas fiscais, proporcionando organização e controle eficiente das operações da loja. | Java, JSwing, Jdbc, MySQL |
-|[Kairo](https://github.com/GallegoSz/Kairo)| Plataforma de gestão de times onde cada colaborador possui um calendário individual, e os gestores têm uma visão completa da disponibilidade, agendas e compromissos da equipe em tempo real. Ajudando empresas a reduzir conflitos de agenda, melhorar o planejamento e tomar decisões com base na disponibilidade real do time.| Javascript, Typescript, React, Tailwind |
+|[Kairo](https://usekairo.com.br)| Plataforma de gestão de times onde cada colaborador possui um calendário individual, e os gestores têm uma visão completa da disponibilidade, agendas e compromissos da equipe em tempo real. Ajudando empresas a reduzir conflitos de agenda, melhorar o planejamento e tomar decisões com base na disponibilidade real do time.| Javascript, Typescript, React, Tailwind |
 
 
 
