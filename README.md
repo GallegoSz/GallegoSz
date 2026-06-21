@@ -23,7 +23,7 @@
 ## 🛠️ Tecnologias & Ferramentas
 ### FrontEnd
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,tailwind,nextjs,astro,vite" />
 </p>
 
 ### BackEnd
